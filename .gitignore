@@ -1,0 +1,5 @@
+writable/
+vendor/
+.env
+.DS_Store
+.tmux.conf
